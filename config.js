@@ -1,4 +1,4 @@
-var api = "https://etnx.hashfactory.online:9119";
+var api = "https://etnxp.hashfactory.online:9119";
 
 var email = "support@electronero.org";
 var telegram = "https://t.me/etnxp";
@@ -9,5 +9,5 @@ var marketCurrencies = ["{symbol}-BTC", "{symbol}-USD", "{symbol}-EUR", "{symbol
 var blockchainExplorer = "https://explorer.electroneropulse.org/block/{id}";
 var transactionExplorer = "https://explorer.electroneropulse.org/tx/{id}";
 
-var themeCss = "themes/default.css";
+var themeCss = "themes/green.css";
 var defaultLang = 'en';
