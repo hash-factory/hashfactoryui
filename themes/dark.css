@@ -14,13 +14,13 @@ body {
   overflow-y: scroll;
 }
 a {
-  color: #36004a;
+  color: #018ccf;
 }
 a:hover {
-  color: #36004a;
+  color: #018ccf;
 }
 hr {
-  border-top-color: #36004a;
+  border-top-color: #018ccf;
 }
 strong, b {
   font-weight: 500;
@@ -35,7 +35,7 @@ h3,.h3 {
   margin-bottom: 14px;
 }
 code {
-  color: #36004a;
+  color: #018ccf;
   background-color: #efefef;
   padding: 2px 10px;
   border-radius: 0;
@@ -142,7 +142,7 @@ footer > div{
   z-index: 1000;
 }
 .nav-side-menu .brand {
-  background-color: #36004a;
+  background-color: #018ccf;
   line-height: 50px;
   display: block;
   text-align: center;
@@ -178,12 +178,12 @@ footer > div{
 }
 .nav-side-menu ul .active,
 .nav-side-menu li .active {
-  border-left: 3px solid #36004a;
+  border-left: 3px solid #018ccf;
   background-color: #000;
 }
 .nav-side-menu ul .active a,
 .nav-side-menu li .active a {
-  color: #36004a;
+  color: #018ccf;
 }
 .nav-side-menu ul .sub-menu li.active,
 .nav-side-menu li .sub-menu li.active {
@@ -237,7 +237,7 @@ footer > div{
   padding-right: 20px;
 }
 .nav-side-menu li:hover {
-  border-left: 3px solid #36004a;
+  border-left: 3px solid #018ccf;
   background-color: #e5cb1f;
   -webkit-transition: all 1s ease;
   -moz-transition: all 1s ease;
@@ -324,17 +324,17 @@ footer > div{
 /* Bootstrap Buttons */
 .btn-default {
   color: #000;
-  background-color: #36004a;
-  border-color: #36004a;
+  background-color: #018ccf;
+  border-color: #018ccf;
 }
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default {
   color: #ffffff;
   background-color: #202020;
-  border-color: #36004a;
+  border-color: #018ccf;
 }
 .btn-default.disabled,.btn-default[disabled], fieldset[disabled] .btn-default, .btn-default.disabled:hover, .btn-default[disabled]:hover, fieldset[disabled] .btn-default:hover, .btn-default.disabled:focus, .btn-default[disabled]:focus, fieldset[disabled] .btn-default:focus, .btn-default.disabled:active, .btn-default[disabled]:active, fieldset[disabled] .btn-default:active, .btn-default.disabled.active, .btn-default[disabled].active, fieldset[disabled] .btn-default.active {
   background-color: #202020;
-  border-color: #36004a;
+  border-color: #018ccf;
 }
 .btn-default .badge {
   color: #014e71;
@@ -390,8 +390,8 @@ footer > div{
   background-color: #000000;
 }
 .table > thead > tr > th {
-  color: #36004a;
-  border-bottom-color: #36004a;
+  color: #018ccf;
+  border-bottom-color: #018ccf;
   font-weight: 400;
 }
 .table-striped > tbody > tr:nth-child(odd) > td,
@@ -447,7 +447,7 @@ table th.sort:hover{
 
 /* Info box */
 .infoBox {
-  background-color: #36004a;
+  background-color: #018ccf;
   box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
   height: 80px;  
   cursor: default;
@@ -555,7 +555,7 @@ table th.sort:hover{
   padding: 5px 0;
 }
 .stats > div:not(#addressError) > i.fa {
-  color: #36004a;
+  color: #018ccf;
   font-size: 21px;
   width: 30px;
   text-align: center;
@@ -563,7 +563,7 @@ table th.sort:hover{
 .stats > div:not(#addressError) > span:not(.input-group-btn):first-of-type {
   font-weight: 500;
   padding: 0 2px;
-  color: #36004a;
+  color: #018ccf;
 }
 
 /* Pool and Worker Charts */
